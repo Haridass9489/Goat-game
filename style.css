@@ -25,10 +25,6 @@ body {
     background-image: url("./assets/road.jpg");
 }
 
-    0% { background-position-y: 0; }
-    100% { background-position-y: 100%; }
-} */
-
 .goat {
     position: absolute;
     width: 50px;
